@@ -1,0 +1,146 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+}
+#div1{
+    height:40px;
+    background-color: black;
+   
+}
+#nav{
+    display:flex;  
+}
+#a1{ 
+    padding-top:1%;
+    text-decoration: none;
+    padding:1%;
+    color:white;min-height:10%;
+    line-height:30px;
+}
+#a1:hover{
+    background-color: white;
+    color:black;
+    border-bottom: 2px solid;
+}
+#div2{
+    height:60px;
+    background-color: white;
+    
+    position: sticky;
+    top:0px;
+}
+#search::placeholder{
+    padding:3%
+}
+#nav2{
+    display:flex;
+    padding:1%;
+    width:100%;
+    justify-content: flex-end;
+    margin-top:-2.9%
+}
+#aa{
+ padding-left:0.7%;
+ text-decoration: none;
+ color:black;
+ padding-top: 0.5%;
+
+}
+#nav3{
+    display:flex;
+    justify-content: flex-start;
+    padding-left:0.1%;
+    margin-top:0.4%
+}
+#div3{
+    height: 80px;
+    
+    display: flex;
+    padding-left: 25%;
+    padding-top: 1.5%;
+    background-color: rgb(174, 208, 237);
+}
+#div4{
+   
+height: 600px;
+}
+
+#nav4{
+    display:flex;
+    flex-direction: column; 
+    padding-top: 5%;
+    margin-left: 10%;
+}
+#div5{
+height:350px;
+
+background-color: rgb(250, 247, 243);
+}
+#im{
+    padding-left:3%;
+}
+#a2{
+    padding:1%;
+    font-size: larger; 
+    text-decoration: none;
+    color:black;
+}
+#nav5{
+    display:flex;flex-wrap: wrap;margin-left: 3%;margin-left: 9%;border-bottom:4px solid rgb(197, 221, 242);width:70%
+}
+
+#a2:hover{
+    background-color: aliceblue;
+    border-bottom: 5px solid blue;
+}
+#div6{
+ width:80%;
+ border:2px solid darkgrey;border-radius: 1%;
+ margin-left: 9%;margin-top: 1%;
+ height:900px;
+}
+#nav6{
+    margin-left: -0%;width:50%;
+   padding:7%;
+
+}
+#n6{
+    padding:1.2%;
+    margin-left: 2%;
+    
+}
+#nav7{
+    width:40%;
+    height:600px;
+    margin-left: 55%;
+    margin-top: -40%;
+}
+.small{
+    width:47%;
+    height:450px;
+   
+    margin-top:10%;
+    padding:6%;
+    border:2px solid;
+    border-radius: 5px;
+}
+#small1{
+    margin-left: 50%;
+    margin-top: -81%;
+}
+#div8{
+    height:900px;
+    border:0px solid
+}
+.nav8{
+    height:400px;
+    width:20%;
+    border:2px solid rgb(206, 226, 244);
+    display: flex;
+    border-radius: 7px;
+    background-color: aliceblue;
+}
+#degree{
+    margin-top: 70%;
+    margin-left: -80%;padding-top:5%;
+}
